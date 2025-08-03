@@ -239,12 +239,12 @@ quadrantChart
     title Strategy Options Risk-Return Analysis
     x-axis Low Risk --> High Risk
     y-axis Low Return --> High Return
-    
-    quadrant-1 High Return, Low Risk (Ideal)
-    quadrant-2 High Return, High Risk (Strategic)
-    quadrant-3 Low Return, Low Risk (Safe)
-    quadrant-4 Low Return, High Risk (Avoid)
-    
+
+    quadrant-1 High Return Low Risk - Ideal
+    quadrant-2 High Return High Risk - Strategic
+    quadrant-3 Low Return Low Risk - Safe
+    quadrant-4 Low Return High Risk - Avoid
+
     Cultural Adaptation: [0.3, 0.8]
     Product Localization: [0.4, 0.7]
     Community Engagement: [0.2, 0.6]
@@ -258,7 +258,7 @@ quadrantChart
 ## 10. Competitive Dynamics Evolution
 
 ```mermaid
-gitgraph
+gitGraph
     commit id: "Traditional Market (Pre-2010)"
     branch "Digital Transformation"
     checkout "Digital Transformation"
